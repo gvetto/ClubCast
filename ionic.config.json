@@ -1,6 +1,8 @@
 {
   "name": "ClubCast",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "5679afdd"
 }
